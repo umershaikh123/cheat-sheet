@@ -27,7 +27,11 @@ Link : https://mui.com/material-ui/getting-started/overview/
 - React spring : https://www.react-spring.dev/docs/getting-started
 - React reveal : https://www.react-reveal.com/examples/
 - React awesome reveal : https://react-awesome-reveal.morello.dev/
-- 3d effects library : https://threejs.org/
+
+## 3d effects library
+- three.js : https://threejs.org/
+- React-Three-Fiber :
+- React-Particles-JS : 
 
 # css cheatsheet
 
