@@ -6,12 +6,12 @@
 - F12 : Go to code defination
 - CTRL + P : FILES PALLET
 - CTRL + TAB : MOVE THROUGH TABS
-- CTRL + G = go to line
-- CTRL + PGUP/PGDN = move between vs code tabs
+- CTRL + G : go to line
+- CTRL + PGUP/PGDN : move between vs code tabs
 - CTRL + D : Select duplicate code
 - CTRL + SHIFT + P : > SETTINGS PALLET
 - CTRL + SHIFT + O : @ FUNCTION FINDING PALLET
-- CTRL + SHIFT + . : FINDING CODE
+- CTRL + SHIFT + .   : FINDING CODE
 
 - ALT + G : top left bar menu navigation
 - F8 : go to next error/warning
